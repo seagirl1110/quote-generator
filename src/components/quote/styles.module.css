@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: start;
+}
+
+.author {
+    align-self: end;
+    font-weight: 500;
+}
+
+.btn {
+    padding: 8px 16px;
+    background-color: rgb(53, 117, 246);
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+}
